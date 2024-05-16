@@ -1,5 +1,5 @@
 ### 📚 SQL 문제 개발 가이드 📚
-https://guide.softeer.ai/sql-problem/workflow
+https://guide.softeer.ai/sql-problem
   
 ### 🌼 소프티어 관리자 사이트 🌼
 https://softeer.ai/app
